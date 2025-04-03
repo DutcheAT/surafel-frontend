@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surafel-portfolio.netlify.app/sitemap.xml
